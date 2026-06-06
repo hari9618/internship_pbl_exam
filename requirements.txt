@@ -1,0 +1,5 @@
+#these are the necessary dependecies to buid a langchain workflow 
+langchain
+langchain-google-genai
+python-dotenv
+langchain-core
